@@ -8,7 +8,7 @@ def main():
     #st.title("Vahan Dashboard 4 Regn")
 
     # Read the content of your HTML file
-    with open("Chatbot.html", "r", encoding="utf-8") as file:
+    with open("GenAI.html", "r", encoding="utf-8") as file:
         html_content = file.read()
 
     # Adjust the dimensions dynamically using custom CSS
